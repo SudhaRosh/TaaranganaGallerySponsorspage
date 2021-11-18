@@ -275,8 +275,8 @@ body #cda-remove {
 .grid figure img {
 	position: relative;
 	display: block;
-	min-height: 70%;
-	max-width: 70%;
+	min-height: 90%;
+	max-width: 100%;
 	opacity: 0.8;
 }
 
