@@ -27,10 +27,7 @@ img {
 }
 
 @import url('https://fonts.googleapis.com/css?family=Raleway|Sacramento');
-body{
-    background: #222;
-    background-image: repeating-linear-gradient( to bottom, transparent 7px, rgba(0, 0, 0, 0.8) 9px, rgba(0, 0, 0, 0.8) 13px, transparent 13px );
-}
+
 .text-effect{
     color: #fff6a9;
     font-family: 'Sacramento', cursive;
